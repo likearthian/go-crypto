@@ -1,3 +1,3 @@
-module git.uangteman.com/utils/crypto
+module github.com/likearthian/go-crypto
 
 go 1.15
